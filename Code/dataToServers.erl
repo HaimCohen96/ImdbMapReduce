@@ -21,7 +21,8 @@ shuffleSend() ->
   % Initial time to send data to the servers
   Start = os:timestamp(),
    % shuffling the data - random (important for MapREduce)
-  CSVfile = [Y || {_,Y} <- lists:sort([{rand:uniform(), N} || N <- parse_csv:main(["../newData.csv"])])],
+  CSVfile = [Y || {_,Y} <- lists:sort([{rand:uniform(), N} || N <- dataAnalyze:main(["../newData.csv"])])],
+  %io:format("Data:  ~p.~n", [CSVfile]),
   Servers = monitorServers(readfile(["servers.txt"]), []),
   NumOfServers = lists:flatlength(Servers),
   RowsNumber = lists:flatlength(CSVfile) - 1,

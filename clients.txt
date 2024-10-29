@@ -1,3 +1,0 @@
-master@ubuntu
-client1@ubuntu
-client2@ubuntu

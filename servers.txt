@@ -1,3 +1,0 @@
-server1@ubuntu
-server2@ubuntu
-server3@ubuntu
