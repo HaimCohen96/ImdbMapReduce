@@ -15,7 +15,7 @@ All the clients available on the graphic user interfaces.
 
 Instruction YouTube link - https://youtu.be/Z8F9l-jdFbo 
 
-[![github](youtube.png.png)][https://youtu.be/Z8F9l-jdFbo ]
+[![github](youtube.png)][https://youtu.be/Z8F9l-jdFbo ]
 
 
 MapReduce is like a team effort for handling big chunks of data. When we are working a lot of information that needs sorting and summarizing. The Map phase is where the work begins: each team member takes a piece of the data, processes it, and turns it into small, manageable key-value pairs. Then, in the Reduce phase, all those pairs are gathered together, and the team collaborates to combine them, making sense of the information and producing a final result. This method not only speeds up the process by working in parallel but also ensures that if something goes wrong, the system can recover and keep going. It’s a smart way to tackle large-scale data challenges!
