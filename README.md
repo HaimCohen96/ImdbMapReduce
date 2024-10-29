@@ -1,6 +1,6 @@
 # ImdbMapReduce
 
-<img src = "erlangIcon.png" wdith = 50 height = 50>
+<img src = "gitImages\erlangIcon.png" wdith = 50 height = 50>
 
 In this project I implemented a map reduce system. The system includes three entities:
 
@@ -24,7 +24,7 @@ MapReduce is like a team effort for handling big chunks of data. When we are wor
 
 • Multi-Client: Each client can submit queries to the master and receive targeted responses, displayed in the client’s GUI as graph.
 
-![alt text](architecture.png)
+![alt text](gitImages\architecture.png)
 
 ## Instructions:
 Requirements - erlang OTP 24 using Linux machine.
