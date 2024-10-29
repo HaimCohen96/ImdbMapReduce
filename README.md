@@ -1,7 +1,5 @@
 # ImdbMapReduce
 
-<img src = "gitImages\erlangIcon.png" wdith = 50 height = 50>
-
 In this project I implemented a map reduce system. The system includes three entities:
 
 •	Master
@@ -27,7 +25,7 @@ MapReduce is like a team effort for handling big chunks of data. When we are wor
 <img src = "gitImages\architecture.png">
 
 ## Instructions:
-Requirements - erlang OTP 24 using Linux machine.
+Requirements - erlang OTP 24 using Linux machine. <img src = "gitImages\erlangIcon.png" wdith = 50 height = 50>
 
 •	Make sure servers and clients txt files are updated with the correct data. 
 
