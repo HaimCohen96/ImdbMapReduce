@@ -31,7 +31,7 @@ Requirements - erlang OTP 24 using Linux machine.
 
 •	Make sure servers and clients txt files are updated with the correct data. 
 
-Example – <Name of entity>@<IP>
+Example – Name of entity@IP
 
 Make sure that the master is on the first line on clients.txt.
 
