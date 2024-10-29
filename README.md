@@ -24,7 +24,7 @@ MapReduce is like a team effort for handling big chunks of data. When we are wor
 
 • Multi-Client: Each client can submit queries to the master and receive targeted responses, displayed in the client’s GUI as graph.
 
-![alt text](gitImages\architecture.png)
+<img src = "gitImages\architecture.png">
 
 ## Instructions:
 Requirements - erlang OTP 24 using Linux machine.
