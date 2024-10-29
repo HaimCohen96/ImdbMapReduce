@@ -1,7 +1,7 @@
 # ImdbMapReduce
 
 ![alt text](erlangIcon.png =250x250)
-<img src = "erlangIcon.png" wdith = 250 height = 250>
+<img src = "erlangIcon.png" wdith = 50 height = 50>
 
 In this project I implemented a map reduce system. The system includes three entities:
 
